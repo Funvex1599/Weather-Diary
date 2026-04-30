@@ -1,0 +1,14 @@
+[
+    {
+        "date": "15.05.2025",
+        "temperature": 20.0,
+        "description": "солнечно",
+        "precipitation": "Нет"
+    },
+    {
+        "date": "25.10.2025",
+        "temperature": 3.0,
+        "description": "пасмурно",
+        "precipitation": "Да"
+    }
+]
